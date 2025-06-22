@@ -147,9 +147,27 @@ a{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    visually-hidden ;
   }
-  
+  .visually-hidden{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+  }
+  .benefits-list {
+    display: flex;
+    gap: 24px;
+  }
+  .benefits-item {
+    width: calc((100% - 72px) / 4);
+
+  }
+  .our-tasks-title {
+    margin-bottom: 8px;
+  }
   .our-tasks-content {
     line-height: 1.5;
     letter-spacing: 0.02em;
