@@ -97,7 +97,7 @@ a{
  {
     color: #404bbf;
 }
-
+ /* section 1 */
 .my-image {
     background-color: #2e2f42;
     padding: 188px 0;   
@@ -137,13 +137,17 @@ a{
   .my-button:focus {
     background-color: #404bbf;
   }
-
+   /* section 2 */
+  .our-tasks {
+    padding: 120px;
+  }
   .our-tasks-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    visually-hidden ;
   }
   
   .our-tasks-content {
