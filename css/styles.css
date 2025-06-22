@@ -118,13 +118,14 @@ a{
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+  }
+   .my-buttom style {
     display: block;
     min-width: 169px;
     height: 56px;
     border: none;
     background-color: #4d5ae5;
     border-radius: 4px;
-    
   }
   .my-button:hover, 
   .my-button:focus {
