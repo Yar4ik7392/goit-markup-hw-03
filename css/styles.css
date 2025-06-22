@@ -129,6 +129,7 @@ a{
     border-radius: 4px;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 48px;
   }
   .my-button:hover, 
   .my-button:focus {
