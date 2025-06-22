@@ -101,6 +101,7 @@ a{
 .my-image {
     background-color: #2e2f42;
     padding: 188px 0;
+    padding-top: 48px;
 }
 
 .my-logo {
@@ -129,7 +130,6 @@ a{
     border-radius: 4px;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 48px;
   }
   .my-button:hover, 
   .my-button:focus {
