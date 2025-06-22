@@ -100,6 +100,7 @@ a{
 
 .my-image {
     background-color: #2e2f42;
+    padding: 180px 0;
 }
 
 .my-logo {
@@ -118,8 +119,6 @@ a{
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-  }
-   .my-buttom style {
     display: block;
     min-width: 169px;
     height: 56px;
